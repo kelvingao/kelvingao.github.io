@@ -1,6 +1,18 @@
 ---
-title: Welcome to Quartz
+created: 2024-09-21 19:30:35
+publish: true
+tags: null
+title: 欢迎来到我的数字花园
+updated: 2024-09-21 22:40:38
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> 至高的形而上，在时间的拐弯处，你的影子，无处不在。穿越过世纪的尘埃，因为一种思想，你的光芒一路照耀，在人类精神的花园。你是一片长青的叶子，I think, therefore I am。 -- 笛卡尔
+## 🌿 关于GAOKE.ME
+
+GAOKE.ME是一个关于我记录并逐渐完善自我认知和人生感悟的数字花园，有生产中的进度，也有生活中的感悟，希望人生随着时间的流逝，能够记录下我进步的一点一滴。记录的领域包括：
+
+1. 自我的，包括认知能力和水平、身心灵的提升；
+2. 生产的，包括**投资**、**打工**、**学术**和**创业**，即是生产领域，也是生产过程；
+3. 消费的，包括必须品消费衣食住行和娱乐兴趣；
+
+人生其实就是在经营一个花园，有栽种有删减，才能茂盛。我将逐渐完善起我的数字花园，My Digital Garden，也希望您能够喜欢。
