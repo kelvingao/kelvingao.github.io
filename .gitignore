@@ -10,3 +10,4 @@ sync_obsidian_publish.py
 private/
 .replit
 replit.nix
+package-lock.json
